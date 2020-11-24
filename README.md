@@ -1,4 +1,4 @@
-# Tic-tac-toe using react
+# Tic-tac-toe using React
 
 
 ## Available Scripts
